@@ -28,7 +28,7 @@ dlps.Id = null;
 dlps.Name = PREFIX + 'DigitalLendingClone';
 dlps.Label = PREFIX + ' Digital Lending Clone';
 dlps.PermissionsDigitalLendingAdminUser = true;
-dlps.PermissionsConfigCompliantDataSharing = true;
+// dlps.PermissionsConfigCompliantDataSharing = true;
 insert dlps;
 
 String userId = UserInfo.getUserId();
